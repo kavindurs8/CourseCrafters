@@ -26,11 +26,11 @@ CourseCrafters is a robust online platform designed for creating, managing, and 
 
 ![Screenshot 1](CourseCrafters/ss1.png)
 ![Screenshot 1](CourseCrafters/ss2.png)
-![Screenshot 1](ss3.png)
-![Screenshot 1](ss4.png)
-![Screenshot 1](ss5.png)
-![Screenshot 1](ss6.png)
-![Screenshot 1](ss7.png)
+![Screenshot 1](CourseCrafters/ss3.png)
+![Screenshot 1](CourseCrafters/ss4.png)
+![Screenshot 1](CourseCrafters/ss5.png)
+![Screenshot 1](CourseCrafters/ss6.png)
+![Screenshot 1](CourseCrafters/ss7.png)
 
 ## Getting Started
 
@@ -110,7 +110,7 @@ We welcome contributions! Please follow these steps to contribute:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
+This project is licensed under the MIT License - see the [LICENSE](CourseCrafters/LICENSE.txt) file for details.
 
 ## Acknowledgments
 
