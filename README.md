@@ -24,8 +24,8 @@ CourseCrafters is a robust online platform designed for creating, managing, and 
 
 ## Screenshots
 
-![Screenshot 1](ss1.png)
-![Screenshot 1](ss2.png)
+![Screenshot 1](CourseCrafters/ss1.png)
+![Screenshot 1](CourseCrafters/ss2.png)
 ![Screenshot 1](ss3.png)
 ![Screenshot 1](ss4.png)
 ![Screenshot 1](ss5.png)
